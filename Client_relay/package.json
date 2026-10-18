@@ -1,0 +1,25 @@
+{
+  "name": "hw8-relay-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.8",
+    "lit": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.11",
+    "@types/node": "^26.6.5",
+    "sass": "^1.105.2",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0",
+    "vite-plugin-inspect": "^12.1.0",
+    "vite-plugin-singlefile": "^2.3.3"
+  }
+}
