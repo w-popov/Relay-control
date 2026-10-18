@@ -48,3 +48,8 @@ make
 ```
 Сборка будет длиться около 1 мин.
 * Открыть ```index.html``` из корневого каталога
+
+<img width="480" height="270" alt="forgif-trimmed" src="https://github.com/user-attachments/assets/da30185b-9680-4952-a585-3a5686bc4616" />
+
+
+
