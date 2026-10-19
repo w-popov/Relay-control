@@ -70,7 +70,7 @@ public:
     // Конструктор по умолчанию
     Relay();
 
-    // Конструктор
+    // Конструктор 2
     Relay(int pin_num, std::string name_pin, std::string msg_on, std::string msg_off);
 
     // Интерфейсные методы
@@ -79,6 +79,7 @@ public:
     void toggle() override;
     bool is_state() const override;
 
+    // Методы класса
     void set_delay(int ms);
     int get_delay() const;
     void set_blink(bool value);
